@@ -1,0 +1,37 @@
+---Con người
+
+ID: Id của khách hàng
+Year_Birth: Năm sinh của khách hàng
+Education: Trình độ học vấn của khách hàng
+Marital_Status: Tình trạng hôn nhân
+Income: Thu nhập mỗi năm của khách hàng
+Kidhome: Số trẻ em trong gia đình của khách hàng
+Teenhome: Số thanh thiếu niên trong gia đình của khách hàng
+Dt_Customer: Ngày đăng ký của khách với công ty
+Recency: Số ngày kể từ lần mua hàng cuối cùng của khách hàng
+Complain: 1 nếu khách hàng phàn nàn trong 2 năm qua, 0 nếu khách hàng phàn nàn
+
+---Sản phẩm
+MntWines: Số tiền chi cho rượu trong 2 năm qua
+MntFruits: Số tiền chi cho trái cây trong 2 năm qua
+MntMeatProducts: Số tiền chi cho thịt trong 2 năm qua
+MntFishProducts: Số tiền chi cho cá trong 2 năm qua
+MntSweetProducts: Số tiền chi cho đồ ngọt trong 2 năm qua
+MntGoldProds: Số tiền chi cho vàng trong 2 năm qua
+
+---Khuyến mãi
+
+NumDealsPurchases: Số lần mua hàng được giảm giá
+AcceptedCmp1: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch đầu tiên, 0 nếu không
+AcceptedCmp2: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch thứ 2, 0 nếu không
+AcceptedCmp3: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch thứ 3, 0 nếu không
+AcceptedCmp4: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch thứ 4, 0 nếu không
+AcceptedCmp5: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch thứ 5, 0 nếu không
+Response: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch cuối cùng, 0 nếu không
+
+---Hành vi mua hàng
+
+NumWebPurchases: Số lần mua hàng được thực hiện thông qua trang web của công ty
+NumCatalogPurchases: Số lần mua hàng được thực hiện bằng danh mục
+NumStorePurchases: Số lần mua hàng trực tiếp tại cửa hàng
+NumWebVisitsMonth: Số lượt truy cập vào trang web của công ty trong tháng trước

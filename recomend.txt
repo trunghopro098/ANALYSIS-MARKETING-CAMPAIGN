@@ -1,0 +1,13 @@
+- Biểu đồ vẽ màu mè thêm  với hiện giá trị ở trên cột
+- Đặt nhiều câu hỏi hơn
+- Xây dựng mô hình
+- Có viết phương trình
+- Giải thích
+Link đồ án: https://docs.google.com/spreadsheets/d/1WL_sfhjo8ifV5M9Adi0EZ5HIhTvMWKeDbxhUqrQhMIM/edit#gid=0
+
+Yêu câu:	
+1. đọc và giải thích dữ liệu	
+2. tạo dữ liệu / biến mới	
+3. Đặt và trả lời các câu hỏi nc (có minh họa bằng biểu đồ)	
+4. xây dựng ít nhất 1 mô hình	
+5. sử dụng giao diện (shiny)	
